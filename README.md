@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Efe
 
-<!--
-**nekodu/nekodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Software Engineer | 🔐 Cybersecurity (MSc, Berlin) | ⚙️ MLOps
 
-Here are some ideas to get you started:
+Currently building an **AI/ML hybrid Revenue Intelligence system** using  
+**agentic MCP flows**, **production ML models**, and **MLOps pipelines**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Stack
+
+🐍 **Python** · ♯ **C#** · 🗄️ **SQL**  
+🔥 **PyTorch** · 📊 **Matplotlib**  
+⚡ **FastAPI** · 🤖 ML APIs  
+⚙️ **MLOps** · Model lifecycle · Deployment  
+🔐 **Cybersecurity** · Secure AI systems
+
+---
+
+## 🚧 Now
+- 🤖 Agentic AI workflows
+- 📈 Revenue Intelligence & ML modeling
+- 🛠️ Production ML & MLOps
+- 🛡️ AI + Security
+
+---
+
+## 🌍 Based in
+🇩🇪 Berlin
+
+---
+
+⭐ *Building intelligent systems that scale — and stay secure*
